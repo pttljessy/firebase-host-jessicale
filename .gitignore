@@ -1,6 +1,4 @@
 .DS_Store
-firebase.json
 prepros-6.config
-.firebaserc
 img/*
 .firebase/*
